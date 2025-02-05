@@ -1,16 +1,11 @@
-# guardians
+# Team Name: The Guardians [NYUAD SLUSHD AI Hackathon 2025]
 
-A new Flutter project.
+Figma: https://www.figma.com/design/bVJpIN4qswQT2TSzcJBCsE/memos?node-id=48-1931&t=49jCvwipM8AJuhni-1 
 
-## Getting Started
+Github: https://github.com/ShahramChaudhry/TheGuardians
 
-This project is a starting point for a Flutter application.
+Video: https://drive.google.com/drive/folders/18UBVSoMKtX5QV7ovSXQFqMeJ8P0kH_Vf?usp=sharing
 
-A few resources to get you started if this is your first Flutter project:
+Pitch Deck: https://docs.google.com/presentation/d/1DM4Wc2L-GeFJGucZ7NeCIQ2cRtYQHwzqxBmzPoMfiFU/edit?usp=sharing
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
